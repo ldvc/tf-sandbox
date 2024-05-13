@@ -1,0 +1,5 @@
+HOME=/root
+CONTAINERBASE_CACHE_DIR=/tmp/renovate/cache/containerbase
+PATH=/usr/local/bin:/root/Code/tf-sandbox/node_modules/.bin:/root/Code/node_modules/.bin:/root/node_modules/.bin:/node_modules/.bin:/usr/share/nodejs/@npmcli/run-script/lib/node-gyp-bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:~/bin:/sbin:/bin:/usr/sbin:/usr/bin
+LANG=en_US.UTF-8
+PWD=/tmp/renovate/repos/github/ldvc/tf-sandbox
